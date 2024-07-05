@@ -1,4 +1,4 @@
-Arquivos .ipynb das aulas do minicurso de calculo numerico e aplicacoes em fisica ministrados por mim na V Escola da Pos-Graduacao em Fisica.
+Arquivos .ipynb das aulas do minicurso de Calculo Numerico e Aplicacoes em Fisica ministrados por mim na V Escola da Pos-Graduacao em Fisica.
 
 Aula 1: Calculo numerico
 Aula 2: Metodos procedurais para EDO
